@@ -1,0 +1,19 @@
+{
+  "name": "lyndaang2ess",
+  "version": "1.0.0",
+  "description": "Edited from the Starter Branch Edit from Local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizasu/LyndaAng2Ess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizasu/LyndaAng2Ess/issues"
+  },
+  "homepage": "https://github.com/lizasu/LyndaAng2Ess#readme"
+}
